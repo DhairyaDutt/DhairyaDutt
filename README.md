@@ -2,7 +2,7 @@
 
 ## 🧔 About Me
 
-- 🔭 I’m currently working on [Certificate Generator](https://github.com/DhairyaDutt/Certificate_Generator)
+- 🔭 I’m currently working on [Portfolio](https://github.com/DhairyaDutt/Portfolio)
 
 - 🌱 I’m currently learning **Angular, .NET**
 
