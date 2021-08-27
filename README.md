@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/DhairyaDutt/Portfolio)
 
-- 🌱 I’m currently learning **Angular, .NET**
+- 🌱 I’m currently learning **Mongoose, Express**
 
 - 👯 I’m looking to collaborate on **UX/UI designs**
 
