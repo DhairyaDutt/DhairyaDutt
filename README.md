@@ -1,4 +1,4 @@
-![Dhairya Dutt](./cover-photo.png)
+
 
 ## 🧔 About Me
 
