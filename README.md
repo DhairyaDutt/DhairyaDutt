@@ -17,7 +17,7 @@
 ![Skill](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-108000?style=for-the-badge)
 ![Skill](https://img.shields.io/badge/Object--Oriented%20Programming-blue?style=for-the-badge)
 ![Skill](https://img.shields.io/badge/System%20Design-FFA500?style=for-the-badge)
-![Skill](https://img.shields.io/badge/Operating%20Systems-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Skill](https://img.shields.io/badge/Operating%20Systems-000000?style=for-the-badge)
 ![Skill](https://img.shields.io/badge/DBMS-002000?style=for-the-badge)
 ![Skill](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Skill](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
