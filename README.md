@@ -29,6 +29,10 @@
 ![Skill](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Skill](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Skill](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Skill](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Skill](https://img.shields.io/badge/Object--Oriented%20Programming-blue?style=for-the-badge)
+![Skill](https://img.shields.io/badge/System%20Design-FFA500?style=for-the-badge)
+![Skill](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-008000?style=for-the-badge)
 
 ## 🤝 Connect
 
