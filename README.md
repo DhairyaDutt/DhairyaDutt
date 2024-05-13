@@ -14,7 +14,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhairyaDutt&layout=compact&show_icons=true&theme=dark)](https://github.com/DhairyaDutt/DhairyaDutt)
 
-![Skill](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-008000?style=for-the-badge)
+![Skill](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-108000?style=for-the-badge)
 ![Skill](https://img.shields.io/badge/Object--Oriented%20Programming-blue?style=for-the-badge)
 ![Skill](https://img.shields.io/badge/System%20Design-FFA500?style=for-the-badge)
 ![Skill](https://img.shields.io/badge/Operating%20Systems-000000?style=for-the-badge&logo=apple&logoColor=white)
@@ -26,15 +26,10 @@
 ![Skill](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Skill](https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=google%20cloud&logoColor=white)
 ![Skill](https://img.shields.io/badge/Data%20Looker-311C87?style=for-the-badge&logo=data-looker&logoColor=white)
-
-
-
 ![Skill](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
 ![Skill](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Skill](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
-![Skill](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 
