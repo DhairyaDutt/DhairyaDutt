@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/DhairyaDutt/Portfolio)
 
-- 🌱 I’m currently learning **Mongoose, Express**
+- 🌱 I’m currently learning **System Design**
 
-- 👯 I’m looking to collaborate on **UX/UI designs**
+- 👯 I’m looking for an **Internship**
 
-- 📫 Contact me **[here](dhairyadutt2002@gmail.com)**
+- 📫 Contact me **[here](dd8053@g.rit.edu)**
 
 ## 📚 My Skills
 
