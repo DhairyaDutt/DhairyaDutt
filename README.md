@@ -4,7 +4,7 @@
 
 - 🎓 Pursuing my master's degree at Rochester Institute of Technology.
 - 📝 published two research papers in IcSoftcomp'22.
-- 💻 Solved 1200+ problems on [Leetcode(Rating 1847)](https://leetcode.com/u/N0ooobmaster69/).
+- 💻 Solved 1200+ problems on [Leetcode(Rating 1861)](https://leetcode.com/u/N0ooobmaster69/).
 - 🤓 Well-versed with CS fundamentals like OOPs, OS, and DBMS.
   
 - 🌱 I’m currently learning **System Design**
